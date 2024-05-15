@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperZoom", "SuperZoom\SuperZoom.csproj", "{3499F394-8DA0-4943-81C7-4CD7A80642EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3499F394-8DA0-4943-81C7-4CD7A80642EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3499F394-8DA0-4943-81C7-4CD7A80642EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3499F394-8DA0-4943-81C7-4CD7A80642EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3499F394-8DA0-4943-81C7-4CD7A80642EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B009836A-8DB8-4FFE-9F6E-311704201CD5}
+	EndGlobalSection
+EndGlobal
